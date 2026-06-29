@@ -1,4 +1,4 @@
-Hi 👋 My name is Brandon Tunnicliffe
+Hello, My name is Brandon Tunnicliffe
 ====================================
 
 Beginner Game Developer and Programmer
