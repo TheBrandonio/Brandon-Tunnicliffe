@@ -7,7 +7,7 @@ Beginner Game Developer and Programmer
 I have just graduated with a Bachelor of Science with a First Class Honours in Game Design & Development. I have been coding for 3 years and have been tinkering with Unity for 2 years. In my projects I have learnt to design assets, code in C#, use Unitys inbuilt features, and more.
 
 *   🌍  I'm based in Bradford, West Yorkshire, United Kingdom
-*   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/brandon-kyle-tunnicliffe-84349a3bb/)
+*   🖥️  See my portfolio on [LinkedIn](http://www.linkedin.com/in/brandon-kyle-tunnicliffe-84349a3bb/)
 *   ✉️  You can contact me at [brandonkyletunnicliffe@gmail.com](mailto:brandonkyletunnicliffe@gmail.com)
 *   🧠  I'm currently learning to further develop my skills with C# and Unity to create a game that will succeed.
 <p align="left">
